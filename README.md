@@ -1,2 +1,2 @@
-# nlwValoriza
- Projeto desenvolvido durante a 6ª edição da Next Level Week (NLW) da Rocketseat.
+# NLW Valoriza
+ Projeto feito durante a semana da 6ª edição da Next Level Week pela Rocketseat.
